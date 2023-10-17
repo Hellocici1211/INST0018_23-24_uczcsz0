@@ -1,0 +1,28 @@
+    body{
+	background-color: rgba(255, 99, 71, 0.2);
+	}
+	
+	h1,h2{
+	background-color: aliceblue;
+	color:violet;
+	font-family:Times Newroman;
+	font-size:40;
+	text-align: center;
+	}
+	
+    p.special {
+    color:black;
+	font-size:30;
+	}
+	
+	p{
+	color:navy;
+	font-size:20;
+	font-style:italic
+	}
+	
+	ul{
+	list-style-type: circle;
+	font-family:Times Newroman;
+	font-size:20;
+	}
